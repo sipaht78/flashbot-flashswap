@@ -2,7 +2,13 @@
 
 ``` bash
 $ npx hardhat node
+$ npx hardhat run --network rinkeby deploy
+$ npm run post
+$ npm run dInfo
+$
+$ npm run aInfo
 
+//** look forward for  package.json file **//
 ```
 
 #### To run bot

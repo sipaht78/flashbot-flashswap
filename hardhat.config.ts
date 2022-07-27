@@ -142,11 +142,11 @@ const config: HardhatUserConfig = {
       },
     },
     networks: {
-        rinkeby: {
-            url: `https://rinkeby.infura.io/v3/${INFURA_TOKEN}`,
-            accounts: [`0x${DEPLOYER_PRIVATE_KEY}`],
-            chainId: chainIds.rinkeby,
-        },
+        // rinkeby: {
+        //     url: `https://rinkeby.infura.io/v3/${INFURA_TOKEN}`,
+        //     accounts: [`0x${DEPLOYER_PRIVATE_KEY}`],
+        //     chainId: chainIds.rinkeby,
+        // },
         local: {
           url: 'http://127.0.0.1:8545/',
         },
