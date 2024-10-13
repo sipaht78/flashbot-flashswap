@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "@openzeppelin/contracts": "3.4.2",
-    "@openzeppelin/test-helpers": "^0.5.15",
+    "@openzeppelin/test-helpers": "^0.5.16",
     "@ricokahler/pool": "^1.1.2",
     "@types/async-lock": "^1.1.2",
     "@types/lodash": "^4.14.168",
